@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# tfg-ua-2017
+>>>>>>> 7539c9e9809ce1c0c557a221689a8f67d3bc21db
